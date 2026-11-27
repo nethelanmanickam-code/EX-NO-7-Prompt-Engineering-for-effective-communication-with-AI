@@ -1,4 +1,10 @@
 # EX-NO-7-Prompt-Engineering-for-effective-communication-with-AI
+
+NAME: NETHELAN M
+
+REG.NO.: 212225060182
+
+DATE: 27/11/2026
 ## AIM
 The main purpose of prompt engineering is to guide artificial intelligence models to produce accurate, relevant, and useful outputs by designing clear and structured instructions. Prompt engineering is the process of structuring an instruction so an AI model gives an accurate and useful response
 
